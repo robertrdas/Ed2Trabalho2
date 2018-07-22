@@ -1,0 +1,16 @@
+Existem diversos algoritmos com a finalidade de ordenação e cada um com suas 
+características, vantagens e desvantagens. Por esse motivo é muito importante
+ escolher o algoritmo o qual mais se adapta ao problema o qual se busca a solução.
+Os algoritmos11 de complexidade O(n²) ou complexidade quadrática, são úteis para
+ resolução de problemas com entradas pequenas, as quais não precisam de muita 
+sofisticação. Por outro lado, quando se tem uma entrada de tamanho considerável
+ os algoritmos baseados na ideia de dividir para conquistar os quase tem uma 
+complexidade melhor O(nlogn), se tornam uma escolha mais viável. Porém, também 
+é preciso levar em consideração a quantidade de memória disponível, a sua 
+estabilidade, a complexidade do código e assim por diante. 
+Para casos extremos por assim dizer, mas que ainda se tem controle sobre certos 
+requisitos, uma outra classe de algoritmos também está disponível, são os de O(n)
+ ou seja complexidade linear, os quais alcançam os melhores e menos tempos para a 
+finalidade de ordenação.
+Com a implementação desses algoritmos nessa atividade pratica, o entendimento sobre
+ os mesmos tornou-se mais fácil.
